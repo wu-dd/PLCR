@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# CRDPLL
-1
-=======
 # DPLL
 
 This is the implemention of our ICML'22 paper (Revisiting Consistency Regularization for Deep Partial Label Learning).
@@ -22,5 +18,3 @@ python main.py --dataset cifar100 --model widenet --data-dir ./data/cifar100/ --
 ```
 
 If you have any further questions, please feel free to send an e-mail to: dongdongwu@seu.edu.cn. Have fun!
-
->>>>>>> 0554046 (CRDPLL)
