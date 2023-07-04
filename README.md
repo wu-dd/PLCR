@@ -1,4 +1,4 @@
-# DPLL
+# PLCR
 
 This is the implemention of our ICML'22 paper (Revisiting Consistency Regularization for Deep Partial Label Learning).
 
