@@ -1,6 +1,6 @@
 # PLCR
 
-This is the implemention of our ICML'22 paper (Revisiting **C**onsistency **R**egularization for Deep **P**artial **L**abel Learning).
+This is the implementation of our ICML'22 paper (Revisiting **C**onsistency **R**egularization for Deep **P**artial **L**abel Learning).
 
 Requirements: 
 Python 3.6.9, 
